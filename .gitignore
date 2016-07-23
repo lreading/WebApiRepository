@@ -1,0 +1,4 @@
+WebApiRepository/.vs/
+**/packages/
+**/obj/
+**/bin/
